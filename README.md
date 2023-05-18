@@ -16,4 +16,4 @@ A node.js server is used to provide some dynamic content like comments, image up
 5. Default theme
 6. Simple comments system with email notifications
 
-The project includes a server side and a client side and a MySql database
+The project includes a server side and a client side and a MySQL database
