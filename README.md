@@ -1,19 +1,23 @@
-## web design 
+# Web Design
 
-web design  is a small website builder. It aims to be an alternative to the increasingly complex static site generators and content managers available today.
+**Web Design** is a lightweight website builder designed to be a simpler alternative to the increasingly complex static site generators and content management systems available today.
 
-With web design you would just write your posts in markdown using the built-in online editor. 
+With **Web Design**, you can write your posts in Markdown using the built-in online editor, making it easy for personal websites, blogs, quick prototypes, or as a starting point for more complex sites.
 
-It can be used for personal websites, blogs, quick prototypes or as a baseline for more complex sites.
+The backend is powered by a Node.js server, providing dynamic features like comments, image uploads, and Markdown editing.
 
-A node.js server is used to provide some dynamic content like comments, image upload and markdown editing.
+## Features
 
-### Features
-1. All content statically generated
-2. Admin panel with authentication
-3. Online markdown editor
-4. Image upload
-5. Default theme
-6. Simple comments system with email notifications
+- **Statically Generated Content**: All website content is statically generated.
+- **Admin Panel with Authentication**: Secure access to manage your site.
+- **Online Markdown Editor**: Write and edit your posts in Markdown directly in the browser.
+- **Image Upload**: Easily upload and manage images for your site.
+- **Default Theme**: A clean and simple default theme to get you started.
+- **Simple Comments System with Email Notifications**: Engage with your audience and get notified of new comments.
+  
+## Tech Stack
 
-The project includes a server side and a client side and a MySQL database
+- **Server Side**: Node.js
+- **Client Side**: React
+- **Database**: MySQL
+
